@@ -1,0 +1,14 @@
+C:\Users\Emre\CodeProjects\FightingApi\bin\Debug\netcoreapp2.2\FightingApi.deps.json
+C:\Users\Emre\CodeProjects\FightingApi\bin\Debug\netcoreapp2.2\FightingApi.runtimeconfig.json
+C:\Users\Emre\CodeProjects\FightingApi\bin\Debug\netcoreapp2.2\FightingApi.runtimeconfig.dev.json
+c:\Users\Emre\CodeProjects\FightingApi\bin\Debug\netcoreapp2.2\FightingApi.dll
+c:\Users\Emre\CodeProjects\FightingApi\bin\Debug\netcoreapp2.2\FightingApi.pdb
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.csprojAssemblyReference.cache
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.csproj.CoreCompileInputs.cache
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.RazorAssemblyInfo.cache
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.RazorAssemblyInfo.cs
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.AssemblyInfoInputs.cache
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.AssemblyInfo.cs
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.RazorTargetAssemblyInfo.cache
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.dll
+c:\Users\Emre\CodeProjects\FightingApi\obj\Debug\netcoreapp2.2\FightingApi.pdb
